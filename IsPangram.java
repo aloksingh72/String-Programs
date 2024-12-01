@@ -1,3 +1,4 @@
+//Dated 30/nov/2024
 class IsPangram{
     public static void main(String[] args) {
         //String sentence = "thequickbrownfoxjumpsoverthelazydog";
