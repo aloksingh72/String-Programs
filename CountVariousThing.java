@@ -35,10 +35,10 @@ class CountVariousThing{
 
 	System.out.println("space_count"+space_count);
 	System.out.println("number_count"+number_count);
-		System.out.println("uppercase_count"+uppercase_count);
-System.out.println("lowercase_count"+lowercase_count);
-System.out.println("specialchar_count"+specialchar_count);
-System.out.println("specialchar_count"+specialchar_count);
+	System.out.println("uppercase_count"+uppercase_count);
+	System.out.println("lowercase_count"+lowercase_count);
+	System.out.println("specialchar_count"+specialchar_count);
+	System.out.println("specialchar_count"+specialchar_count);
 
 	
 	}
