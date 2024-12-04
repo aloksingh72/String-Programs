@@ -25,7 +25,7 @@ class SumOfEvenNumeric{
 			}
 			
 		}
-	System.out.println(esum);
+			System.out.println(esum);
 	}
 }
  
