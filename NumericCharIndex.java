@@ -14,7 +14,7 @@ class NumericCharIndex{
 	
 	
 	public static void numericCharIndex(String s){
-	
+	/*
 		char[] a = s.toCharArray();
 
 		for(int i =0;i<a.length;i++){
@@ -22,8 +22,20 @@ class NumericCharIndex{
 				if(a[i]>=48 && a[i]<=57)
 			         System.out.print(i+",");
 
-			}
-	}
 
+			}
+*/
+	
+
+
+	for(int i =0;i<s.length();i++){
+		char c = s.charAt(i);
+		if(c >='0' && c<='9'){
+				System.out.print(i+",");
+
+		}
+
+	}
+}
 
 }
