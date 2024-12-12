@@ -1,9 +1,9 @@
 //Dated 30/nov/2024
 class IsPangram{
     public static void main(String[] args) {
-        //String sentence = "thequickbrownfoxjumpsoverthelazydog";
+        String sentence = "thequickbrownfoxjumpsoverthelazydog";
 			
-		String sentence = "leetcode";
+		//String sentence = "leetcode";
 
    		boolean res = isPangram(sentence);
 			if(res == true){
@@ -24,7 +24,7 @@ int[] freq = getFrequency(sentence);
 		for(int i =0 ;i<freq.length;i++){
 
 
-						if(freq[i] ==0){
+						if(!(freq[i] >0)){
 									return false;
 							}
 		}
