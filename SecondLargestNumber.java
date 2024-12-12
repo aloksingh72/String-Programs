@@ -22,6 +22,10 @@ class SecondLargestNumber{
 					sec_largest = largest;
 					largest = num;
 				}
+				else if (num <largest && num >sec_largest){
+
+					sec_largest = num;
+				}
 			}
 }
 		if(sec_largest == Integer.MIN_VALUE){
