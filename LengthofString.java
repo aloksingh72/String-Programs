@@ -10,7 +10,7 @@ public class LengthofString{
 				lengthOfString(s);
 	
 		
-
+sc.close();
 		}
 	public static void lengthOfString(String s){
 		char[] a= s.toCharArray();
