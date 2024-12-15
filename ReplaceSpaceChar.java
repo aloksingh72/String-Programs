@@ -14,6 +14,7 @@ class ReplaceSpaceChar{
 		//method calling
 		//replaceUsingReplaceMthod(s);
 		replaceWithoutReplaceMethod(s);
+		sc.close();
 	}
 
 	//using replace method 
