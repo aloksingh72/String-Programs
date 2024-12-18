@@ -8,6 +8,7 @@ class CountVowel{
 		//method callling
 			countVowel(s);
 	}
+	//method declaration 
 	public static void countVowel(String s){
 					s= s.toLowerCase();
 					int count =0;
