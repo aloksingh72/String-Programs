@@ -12,7 +12,7 @@ public class LengthofString {
 
 		sc.close();
 	}
-
+//method declartion
 	public static void lengthOfString(String s) {
 		char[] a = s.toCharArray();
 
