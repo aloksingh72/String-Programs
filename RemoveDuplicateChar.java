@@ -10,7 +10,7 @@ class RemoveDuplicateChar{
 	String res = removeDuplicate(s);
 	System.out.println(res);
 	}
-	
+	//method declaration
 	public static String removeDuplicate(String s){
 		int[] ch = new int[256];
 	StringBuilder ans = new StringBuilder();

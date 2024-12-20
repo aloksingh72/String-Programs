@@ -9,6 +9,7 @@ class GetStringLength{
 
 
 	}
+	//method declaration
 	public static void  getStringLength(String s1){
 
 				char[] a =s1.toCharArray();
