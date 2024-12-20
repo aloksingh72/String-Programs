@@ -12,7 +12,7 @@ class ReverseTheString1{
 
 	public static void reverseTheString(String s){
 				
-	/* //method -1
+	/* //method -1 approach -1
 			String rev ="";
 			for(int i=s.length()-1;i>=0;i--){
 				char c = s.charAt(i);
