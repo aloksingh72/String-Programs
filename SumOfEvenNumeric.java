@@ -9,7 +9,7 @@ class SumOfEvenNumeric{
 		//method calling
 		sumOfEvenNumeric(s);
 	}
-
+//method declaration
 	public static void sumOfEvenNumeric(String s){
 		
 		int esum = 0;
