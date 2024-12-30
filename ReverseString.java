@@ -18,7 +18,7 @@ public static void reverseString(String s){
 					rev = c+rev;
 	
 					
-
+// printing the reverse String
 						System.out.print(rev);
 
 				
