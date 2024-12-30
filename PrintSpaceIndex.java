@@ -9,7 +9,8 @@ class PrintSpaceIndex{
 	printSpaceIndex(s);
 
 	}
-
+//method declaration 
+// mehtod to print space index
 	public static void printSpaceIndex(String s){
 
 		for(int i =0;i<s.length();i++){
