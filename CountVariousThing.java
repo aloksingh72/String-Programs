@@ -8,7 +8,8 @@ class CountVariousThing{
 		
 		countVariousThing(s);
 	}
-
+//method declaration
+//count the things
 	public static void countVariousThing(String s){
 		int space_count =0;
 		int uppercase_count=0;
