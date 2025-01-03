@@ -4,6 +4,7 @@ class CheckPlaindrome{
 	public static void main(String[] args){
 	String s = "madam";
 	//method calling
+
 	if(isPlaindrome(s)){
 			System.out.println("It is Plaindrome ");
 		}
@@ -12,6 +13,7 @@ class CheckPlaindrome{
 	}
 
 	}
+	//function for checking the plaindrome or not
 	public static boolean isPlaindrome(String s){
 		for(int i =0;i<s.length()/2;i++){
 			if(!(s.charAt(i) == s.charAt(s.length()-1-i))){
