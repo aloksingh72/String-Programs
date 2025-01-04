@@ -1,4 +1,4 @@
-//ques
+//ques -> calulate the string of string values 
 import java.util.Scanner;
 
 public class LengthofString {
