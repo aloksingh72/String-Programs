@@ -1,7 +1,8 @@
+//ques
 import java.util.Scanner;
 
 public class LengthofString {
-
+//main method 
 	public static void main(String[] args) {
 		// method calling
 		Scanner sc = new Scanner(System.in);
