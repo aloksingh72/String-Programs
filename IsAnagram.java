@@ -2,7 +2,7 @@ public class IsAnagram{
 
 
 	
-
+// mani
 	public static void main(String[] args){
 	String s = "silen";
 	String t = "listen";
