@@ -1,6 +1,6 @@
 //ques-3 WAJP to take a String input and count all the characters without spaces in the String.
 
-
+//function for count char in string 
 class CountCharInString{
 
 	public static void main(String[] args){
