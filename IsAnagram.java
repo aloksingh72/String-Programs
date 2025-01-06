@@ -11,7 +11,7 @@ public class IsAnagram{
 
 System.out.println(res);
 		}
-
+//method to check is anaagram
 	public static boolean isAnagram(String s,String t){
 
 			int[] freq1= getFrequency(s);
