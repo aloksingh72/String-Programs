@@ -4,7 +4,7 @@ public class IsAnagram{
 	
 // main satements
 	public static void main(String[] args){
-	String s = "silen";
+	String s = "silentc";
 	String t = "listen";
 	
 	boolean res = isAnagram(s,t);
