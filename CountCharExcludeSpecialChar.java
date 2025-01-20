@@ -9,7 +9,7 @@ class CountCharExcludeSpecialChar{
 
 
 	}
-
+//count char method 
 	public static void countCharExcludeSpecialChar(String s){
 				int count =0;
 

@@ -1,7 +1,7 @@
 //ques 5.->WAJP to take a String input and count all the space characters, uppercase, lowercase, numeric, special characters in the String.
 
 class CountVariousThing{
-
+//main method 
 	public static void main(String[] args){
 		String s = "A@7a Singh";
 		//method calling
