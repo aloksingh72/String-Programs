@@ -8,7 +8,7 @@ public class IsAnagram{
 	String t = "listen";
 	
 	boolean res = isAnagram(s,t);
-
+// print out statements 
 System.out.println(res);
 		}
 //method to check is anaagram
