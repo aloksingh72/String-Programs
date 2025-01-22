@@ -16,7 +16,7 @@ public class LengthofString {
 //method declartion
 	public static void lengthOfString(String s) {
 		char[] a = s.toCharArray();
-
+//Print statements
 		System.out.println("the length of String " + a.length);
 	}
 
