@@ -10,7 +10,7 @@ public class LengthofString {
 
 		String s = sc.nextLine();
 		lengthOfString(s);
-
+// closing the Scanner 
 		sc.close();
 	}
 //method declartion
