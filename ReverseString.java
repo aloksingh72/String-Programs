@@ -1,6 +1,7 @@
 
 
 class ReverseString{
+	//main method 
 	public static void main(String[] args){
 
 		String s1 = "Mohan and Sohan is here";
